@@ -1,0 +1,21 @@
+body{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      background: conic-gradient( rgb(190, 102, 218) 150deg,skyblue 68deg,rgb(106, 63, 206)300deg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+}
+#maincontainer{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+}
+#container{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border:0px solid;
+      background-color: white;
+      margin:100px;
+      border-radius: 10px;
+}
